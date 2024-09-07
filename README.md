@@ -23,7 +23,7 @@ python3 manage.py makemigrations
 python3 manage.py migrate
 ```
 
-# Execution
+## Execution
 
 ```shell
 python3 manage.py runserver
